@@ -1,5 +1,14 @@
 # Android_Dev
  
+## Screenshots
+
+### 
+
+<img src="https://github.com/Shiru99/Blog_Store/blob/master/Project%20Screenshots/1.png" width="50%" height= "50%" title="Image 1" alt="Login Page">
+<img src="https://github.com/Shiru99/Blog_Store/blob/master/Project%20Screenshots/2.png" width="50%" height= "50%" title="Image 2" alt="Home Page">
+
+---
+
 ***JAVA INSTALLATIONS***
 
 - Install java 8
